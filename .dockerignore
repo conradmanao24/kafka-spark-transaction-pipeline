@@ -1,0 +1,9 @@
+.git
+.env
+jars
+checkpoint
+checkpoint_v2
+data
+evidence
+__pycache__
+*.pyc

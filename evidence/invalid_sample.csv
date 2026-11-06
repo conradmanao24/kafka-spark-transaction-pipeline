@@ -1,0 +1,21 @@
+﻿user_id,amount_text,event_timestamp,source,error_reason
+U10003,360434,2026-11-06T06:47:25Z,mobile,duplicate
+U10001,bukan_angka,2026-11-06T06:47:37Z,web,type_validation
+,362945,2026-11-06T06:47:44Z,mobile,"mandatory_field, type_validation"
+U10002,37541,2026-11-06T06:42:41Z,pos,late_event
+U10005,48054,2026-11-06T06:42:40Z,pos,late_event
+U10002,458321,2026-11-06T06:42:38Z,mobile,late_event
+U10002,157363,salah-tanggal,pos,timestamp_invalid
+U10004,144141,2026-11-06T06:47:34Z,app,source_invalid
+U10002,15000000,2026-11-06T06:47:32Z,pos,amount_out_of_range
+U10004,-5000,2026-11-06T06:47:31Z,web,amount_out_of_range
+,12647,2026-11-06T06:25:46Z,web,"mandatory_field, type_validation"
+U10001,49375,2026-11-06T06:25:26Z,mobile,duplicate
+U10003,56176,2026-11-06T06:20:43Z,mobile,late_event
+U10005,445163,2026-11-06T06:20:41Z,mobile,late_event
+U10003,440412,2026-11-06T06:20:40Z,web,late_event
+U10004,bukan_angka,2026-11-06T06:25:38Z,pos,type_validation
+U10004,354379,salah-tanggal,mobile,timestamp_invalid
+U10001,15000000,2026-11-06T06:25:34Z,web,amount_out_of_range
+U10001,-5000,2026-11-06T06:25:32Z,mobile,amount_out_of_range
+U10004,449914,2026-11-06T06:25:35Z,app,source_invalid
